@@ -1,3 +1,55 @@
-.container{
-    width: 90%;
+body{
+    font-family: 'Nunito';
+}
+
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+}
+h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+h4{
+    font-size: 12px;
+    color: gray;
+}
+h6{
+    color: #fff;
+    padding-top: 50px;
+    font-size: 15px;
+}
+
+.mark{
+    font-family: 'Nunito';
+    font-size: 35px;
+    color: #21C7DD;
+    font-weight: 800;
+}
+p{
+    font-size: 14px;
+    color: gray;
+}
+img{
+    width: 80%;
+    height: auto;
+}
+button{
+    background: #21C7DD;
+    border: none;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 2px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 12px;
+}
+.rectangle{
+    height: 150px;
+    width: 600px;
+    background-color: #21C7DD;
 }
