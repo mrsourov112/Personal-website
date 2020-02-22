@@ -52,4 +52,5 @@ button{
     height: 150px;
     width: 600px;
     background-color: #21C7DD;
+    overflow: hidden;
 }
